@@ -9,7 +9,7 @@ Flies are ideal for this goal: they generate complex behaviors yet have a small 
 **Relevant publications:** [Chen et al., Nature Neuroscience, 2023](https://rdcu.be/c8jUV);  [Braun et al., bioRxiv 2023](https://www.biorxiv.org/content/10.1101/2023.09.11.557103v1)
 
 - Building a neuromechanical model of _Drosophila_ in a physics environment (physics simulations, biomechanics, machine learning)
-**Relevant publications:** [Lobato et al., Nature Methods, 2022](https://www.nature.com/articles/s41592-022-01466-7), [Chen-Wang et al., bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.09.18.556649v2)
+**Relevant publications:** [Lobato et al., Nature Methods, 2022](https://www.nature.com/articles/s41592-022-01466-7), [Wang-Chen et al., bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.09.18.556649v2)
 
 - Recording neural activity in the motor system during behavior (2-photon imaging, microengineering)
 **Relevant publications:** [Hermans, Kaynak et al., Nature Communications 2022](https://www.nature.com/articles/s41467-022-32571-y), [Chen, Hermans et al., Nature Communications 2018](https://www.nature.com/articles/s41467-018-06857-z)
