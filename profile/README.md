@@ -6,7 +6,7 @@ Flies are ideal for this goal: they generate complex behaviors yet have a small 
 
 #### Some of our recent science and new technologies
 - Uncovering information flow between the brain and motor system (genetics, 2-photon imaging, machine learning-based image analysis)
-**Relevant publications:**  [Braun, Hurtak et al., bioRxiv 2023](https://www.biorxiv.org/content/10.1101/2023.09.11.557103v1),[Chen et al., Nature Neuroscience, 2023](https://rdcu.be/c8jUV), [Aymanns et al., Elife, 2022](https://elifesciences.org/articles/81527); 
+**Relevant publications:**  [Braun, Hurtak et al., Nature 2024](https://www.nature.com/articles/s41586-024-07523-9), [Chen et al., Nature Neuroscience, 2023](https://rdcu.be/c8jUV), [Aymanns et al., Elife, 2022](https://elifesciences.org/articles/81527); 
 
 - Building a neuromechanical model of _Drosophila_ in a physics environment (physics simulations, biomechanics, machine learning)
 **Relevant publications:** [Lobato et al., Nature Methods, 2022](https://www.nature.com/articles/s41592-022-01466-7), [Wang-Chen et al., bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.09.18.556649v2)
