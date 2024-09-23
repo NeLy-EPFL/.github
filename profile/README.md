@@ -1,6 +1,6 @@
 # [Neuroengineering Laboratory (Ramdya Lab)](https://www.epfl.ch/labs/ramdya-lab/) @ EPFL 🪰🔬🧬🤖
 
-**We are reverse-engineering the fly, _Drosophila melanogaster_, to understand how animals leverage social information, learn about the world, and generate flexible motor behaviors.** We believe that our efforts will uncover general insights into biological intelligence and can inform the design of better artificial systems and robots.
+**We are reverse-engineering the fly, _Drosophila melanogaster_, to understand how animals generate flexible motor behaviors, leverage social information, and learn about the world.** We believe that our efforts will uncover general insights into biological intelligence and can inform the design of better artificial systems and robots.
 
 Flies are ideal for this goal: they generate complex behaviors yet have a small nervous system and are genetically malleable. For our research, we develop and use a variety of approaches **including microscopy, machine learning, genetics, and computational modeling.** We are part of the [Brain Mind Institute](https://www.epfl.ch/schools/sv/bmi/) and [Institute of Bioengineering](https://www.epfl.ch/research/domains/bioengineering/) in the [School of Life Sciences](https://www.epfl.ch/schools/sv/) at [EPFL](https://www.epfl.ch/en/), Switzerland 🇨🇭.
 
